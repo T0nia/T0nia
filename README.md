@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm Tonia!
 
-<!--
-**T0nia/T0nia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Frontend Engineer** passionate about building beautiful, responsive, and accessible user interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- ⚛️ React & Next.js  
+- 🎨 Figma for UI/UX design  
+- 🎯 JavaScript, CSS3, HTML5  
+- 💨 Tailwind CSS  
+- 🛠️ Currently learning: Node.js, Express, and backend APIs
+
+---
+
+### 🚀 What I’m Working On
+
+- Deepening my full-stack skills by learning backend technologies
+- Building sleek UI projects with modern tools like Tailwind and Next.js
+- Exploring design systems and component libraries
+
+---
+
+### 🤝 Let’s Connect
+
+- 💬 Ask me about frontend architecture, design thinking, or building beautiful layouts
+- 📫 Reach me on edtoniaelohor@gmail.com
+
+---
+
+### 🎧 Fun Facts
+
+- 🧩 I love solving puzzles — logic, crosswords, coding ones too!
+- 🎵 My playlist is always on — good music keeps the code flowing
+
+---
+
+> "I care about clean code, pixel-perfect UI, and continuously learning to build better digital experiences."
