@@ -36,4 +36,4 @@ A **Frontend Engineer** passionate about building beautiful, responsive, and acc
 
 ---
 
-> "I care about clean code, pixel-perfect UI, and continuously learning to build better digital experiences."
+> I care about clean code, pixel-perfect UI, and continuously learning to build better digital experiences.
