@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Tonia!
+## Hi there, I'm T0nia!
 
 A **Frontend Engineer** passionate about building beautiful, responsive, and accessible user interfaces.
 
