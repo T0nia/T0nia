@@ -1,20 +1,20 @@
 ## Hi there, I'm T0nia!
 
-A **Frontend Engineer** passionate about building beautiful, responsive, and accessible user interfaces.
+A **Frontend Engineer** building beautiful, responsive, and accessible user interfaces.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
-- ⚛️ React & Next.js  
-- 🎨 Figma for UI/UX design  
-- 🎯 JavaScript, CSS3, HTML5  
-- 💨 Tailwind CSS  
-- 🛠️ Currently learning: Node.js, Express, and backend APIs
+-  React & Next.js  
+-  Figma for UI/UX design  
+-  JavaScript, CSS3, HTML5  
+-  Tailwind CSS  
+-  Currently learning: Node.js, Express, and backend APIs
 
 ---
 
-### 🚀 What I’m Working On
+### What I’m Working On
 
 - Deepening my full-stack skills by learning backend technologies
 - Building sleek UI projects with modern tools like Tailwind and Next.js
@@ -22,17 +22,17 @@ A **Frontend Engineer** passionate about building beautiful, responsive, and acc
 
 ---
 
-### 🤝 Let’s Connect
+### Let’s Connect
 
-- 💬 Ask me about frontend architecture, design thinking, or building beautiful layouts
-- 📫 Reach me on edtoniaelohor@gmail.com
+-  Ask me about frontend architecture, design thinking, or building beautiful layouts
+-  Reach me on edtoniaelohor@gmail.com
 
 ---
 
-### 🎧 Fun Facts
+### Fun Facts
 
-- 🧩 I love solving puzzles — logic, crosswords, coding ones too!
-- 🎵 My playlist is always on — good music keeps the code flowing
+-  I love solving puzzles — logic, crosswords, coding ones too!
+-  My playlist is always on — good music keeps the code flowing
 
 ---
 
