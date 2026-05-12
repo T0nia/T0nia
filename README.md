@@ -32,7 +32,6 @@ A **Frontend Engineer** building beautiful, responsive, and accessible user inte
 ### Fun Facts
 
 -  I love solving puzzles — logic, crosswords, coding ones too!
--  My playlist is always on — good music keeps the code flowing
 
 ---
 
