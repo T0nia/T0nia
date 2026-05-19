@@ -29,10 +29,4 @@ A **Frontend Engineer** building beautiful, responsive, and accessible user inte
 
 ---
 
-### Fun Facts
-
--  I love solving puzzles — logic, crosswords, coding ones too!
-
----
-
 > I care about clean code, pixel-perfect UI, and continuously learning to build better digital experiences.
