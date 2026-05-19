@@ -10,7 +10,7 @@ A **Frontend Engineer** building beautiful, responsive, and accessible user inte
 -  Figma for UI/UX design  
 -  JavaScript, CSS3, HTML5  
 -  Tailwind CSS  
--  Currently learning: Node.js, Express, and backend APIs
+-  Currently learning: Node.js, Python, and backend APIs
 
 ---
 
