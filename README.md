@@ -1,6 +1,6 @@
 ## Hi there, I'm T0nia Elohor.
 
-A **Frontend Engineer** building beautiful, responsive, and accessible user interfaces.
+A **Software Engineer** who specilaizes in Frontend technologies. 
 
 ---
 
