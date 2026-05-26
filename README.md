@@ -8,7 +8,7 @@ A **Software Engineer** who specilaizes in Frontend technologies.
 
 -  React & Next.js  
 -  Figma for UI/UX design  
--  JavaScript, CSS3, HTML5  
+-  JavaScript, TypeScript  
 -  Tailwind CSS  
 -  Currently learning: Node.js, Python, and backend APIs
 
