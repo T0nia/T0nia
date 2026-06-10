@@ -1,6 +1,6 @@
 ## Hi there, I'm T0nia Elohor.
 
-A **Software Engineer** who specilaizes in Frontend technologies. 
+A **Software Engineer** who specilaizes in Frontend Technologies. 
 
 ---
 
