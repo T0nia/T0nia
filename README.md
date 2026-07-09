@@ -19,7 +19,7 @@ A **Software Engineer** who specilaizes in Frontend Technologies.
 - Deepening my full-stack skills by learning backend technologies
 - Building sleek UI projects with modern tools like Tailwind and Next.js
 - Exploring design systems and component libraries
-- Scalable architecture in system design
+- Scalable architecture in system design.
 
 ---
 
