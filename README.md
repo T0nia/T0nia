@@ -10,7 +10,7 @@ A **Software Engineer** who specilaizes in Frontend Technologies.
 -  Figma for UI/UX design  
 -  JavaScript, TypeScript  
 -  Tailwind CSS  
--  Currently learning: Node.js, Python, and backend APIs
+-  Currently learning: Node.js, Python, and backend APIs.
 
 ---
 
